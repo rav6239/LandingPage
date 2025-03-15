@@ -11,8 +11,8 @@ export default function LandingPage() {
     <div className="min-h-screen w-full relative flex items-center justify-center p-4">
       {/* Background Image */}
       <Image
-        src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-05%20at%207.06.35%20PM-lGLTKlVG62oyFVyFY6ZlDmcUoZIrF5.jpeg"
-        alt="Rocket launch background"
+        src="https://images.pexels.com/photos/730564/pexels-photo-730564.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        alt="Crypto coins background"
         fill
         className="object-cover"
         priority
